@@ -4,8 +4,9 @@
 ; https://www.autohotkey.com/docs/v1/Hotkeys.htm#Remarks
 
 <^>!e::\
+<^>!d::|
 <^>!a::'
-; <^>!s::"
+<^>!s::"
 
 !k::Up
 !j::Down
