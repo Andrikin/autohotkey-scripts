@@ -11,7 +11,7 @@
 !k::Up
 !j::Down
 !l::Right
-!r::Left
+!h::Left
 !BS::Del
 
 !0::Home
